@@ -1,4 +1,4 @@
-# 2048-game
+# 2048-Game
 You can play the 2048 game ny running this phton code
 Before running the code you should install some librarys:
   *random
